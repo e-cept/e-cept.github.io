@@ -7,4 +7,8 @@
 //   });
 // ファイル名は大文字と小文字を区別します(GitHub Pages など)。このファイルと同じフォルダに画像を置きます。
 KARUDO_IMAGES("multi", {
+    "d_chimera": { "main": "d_chimera_main.webp" },//双星のキメラ
+    "d_wings": { "main": "d_wings_main.webp" },//焔風の双翼
+    "d_mudsnake": { "main": "d_mudsnake_main.webp" },//滝壺の岩鬼
+    "d_sphinx": { "main": "d_sphinx_main.webp" },//岩嶺の嵐獣
 });
